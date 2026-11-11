@@ -67,11 +67,9 @@
 ---
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?user=sayedul-islam&show_icons=true&theme=dark&bg_color=0A192F&hide_border=true)](https://github.com/sayedul-islam)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayedul-islam&theme=dark&background=0A192F&hide_border=true)](https://github.com/sayedul-islam)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=sayedul-islam&layout=compact&theme=dark&bg_color=0A192F&hide_border=true)](https://github.com/sayedul-islam)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sayedul-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <!-- ============ FOOTER ============ -->
 <p align="center">
