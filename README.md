@@ -1,49 +1,78 @@
-<div align="center">
-
+<!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img src="profile.jpeg" width="120" style="border-radius: 50%;" alt="Sayedul Islam" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=Sayedul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20%26%20Graphic%20Designer%20%C2%B7%20Frontend%20Developer&descAlignY=58&descSize=16" alt="Sayedul Islam banner" width="100%" />
 </p>
 
-<h2 align="center">Hi there 👋, I'm Sayedul Islam</h2>
+<!-- ============ PROFILE PHOTO ============ -->
+<!-- NOTE: GitHub ignores style="border-radius". Crop your photo into a circle (Figma/Photoshop) and export as PNG, then use it here. -->
+<p align="center">
+  <img src="profile.png" width="120" alt="Sayedul Islam" />
+</p>
 
-<p align="left">
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=UI%2FUX+%26+Graphic+Designer;Frontend+Web+Developer;Passionate+about+Minimalist+Design" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Crafting pixel-perfect interfaces, minimalist branding and responsive web layouts.
+</p>
+
+<!-- ============ CONNECT ============ -->
+<!-- EDIT: replace every YOUR_... with your real link -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <!-- OPTIONAL: uncomment when your links are ready
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://fiverr.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
+  -->
 </p>
 
 ---
 
-- 🎨 I'm a **UI/UX & Graphic Designer** and **Frontend Web Developer**.
-- 🚀 Passionate about crafting pixel-perfect user interfaces, minimalist branding, and responsive web layouts.
-- 💡 Always eager to learn new technologies, solve problems, and build amazing digital products.
-- ⚡ In my free time, I explore vector illustration, frontend animations, and Python automation.
+## 👋 About Me
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+| | |
+|---|---|
+| 🎨 **Design** | UI/UX, branding and vector illustration |
+| 💻 **Develop** | Responsive frontend with HTML, CSS, JavaScript and Tailwind |
+| ⚡ **Exploring** | Frontend animations and Python automation |
+| 💡 **Mindset** | Always learning, solving problems and building digital products people enjoy |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design tools" />
 </p>
 
-### 🛠️ Tech Stack & Tools
+**Frontend**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338Bdf8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="Frontend stack" />
 </p>
 
-### 🔥 GitHub Streak
+**Others**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git" alt="Other tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedul-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sayedul-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
+<!-- ============ FOOTER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" alt="footer" width="100%" />
+</p>
