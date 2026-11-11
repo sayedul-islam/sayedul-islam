@@ -18,16 +18,16 @@
 ### 🌐 Connect with me:
 
 <p>
-  <a href="https://www.facebook.com/profile.php?id=61592193765945" target="_blank">   
+  <a href="https://www.facebook.com/sayed177100" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/sayedul-islam-758532269/" target="_blank">
+  <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.youtube.com/@Md_Sayedul" target="_blank">
+  <a href="https://youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://wa.me/+8801305576243" target="_blank">
+  <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
