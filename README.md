@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi there 👋, I'm Sayedul Islam</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=UI%2FUX+%26+Graphic+Designer;Frontend+Web+Developer;Passionate+about+Minimalist+Design" alt="Typing SVG" />
 </p>
 
