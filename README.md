@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=Sayedul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=UI%2FUX%20%26%20Graphic%20Designer%20%C2%B7%20Frontend%20Developer&descAlignY=58&descSize=16" alt="Sayedul Islam banner" width="100%" />
+  <img src="banner.svg" alt="Sayedul Islam banner" width="100%" />
 </p>
 
 <!-- ============ PROFILE PHOTO ============ -->
