@@ -56,12 +56,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedul-islam&show_icons=true&theme=radical&hide_border=true" alt="Sayedul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayedul-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedul-islam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedul-islam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
