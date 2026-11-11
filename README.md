@@ -1,11 +1,36 @@
-### Hi there 👋, I'm Sayedul Islam
+<div align="center">
+  <img src="আপনার_ছবির_লিংক_বা_ফাইল_নেম" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Sayedul Islam">
+  
+  ### Hi there 👋, I'm Sayedul Islam
+  
+  <img src="https://komarev.com/ghpvc/?username=sayedul-islam&color=blueviolet&style=flat-square" alt="Profile Views" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=sayedul-islam&color=blueviolet&style=flat-square" alt="Profile Views" />
+---
 
 - 🎨 I'm a **UI/UX & Graphic Designer** and **Frontend Web Developer**.
 - 🚀 Passionate about crafting pixel-perfect user interfaces, minimalist branding, and responsive web layouts.
 - 💡 Always eager to learn new technologies, solve problems, and build amazing digital products.
 - ⚡ In my free time, I explore vector illustration, frontend animations, and Python automation.
+
+---
+
+### 🌐 Connect with me:
+
+<p>
+  <a href="https://www.facebook.com/profile.php?id=61592193765945" target="_blank">   
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayedul-islam-758532269/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@Md_Sayedul" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://wa.me/+8801305576243" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 ---
 
