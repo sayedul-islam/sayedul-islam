@@ -68,10 +68,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sayedul-islam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<!-- ১. মেইন গিটহাব স্ট্যাটস কার্ড -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?user=sayedul-islam&show_icons=true&theme=dark&bg_color=0A192F&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- ২. গিটহাব স্ট্রিক উইজেট -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayedul-islam&theme=dark&background=0A192F&hide_border=true)](https://git.io/streak-stats)
+
+<!-- ৩. মোস্ট ইউজড ল্যাঙ্গুয়েজেস কার্ড -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=sayedul-islam&layout=compact&theme=dark&bg_color=0A192F&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ============ FOOTER ============ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" alt="footer" width="100%" />
