@@ -6,7 +6,7 @@
 <!-- ============ PROFILE PHOTO ============ -->
 <!-- NOTE: GitHub ignores style="border-radius". Crop your photo into a circle (Figma/Photoshop) and export as PNG, then use it here. -->
 <p align="center">
-  <img src="profile.png" width="120" alt="Sayedul Islam" />
+  <img src="profile.jpeg" width="120" alt="Sayedul Islam" />
 </p>
 
 <!-- ============ TYPING ANIMATION ============ -->
