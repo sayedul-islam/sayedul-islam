@@ -55,7 +55,10 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedul-islam&show_icons=true&theme=tokyonight&hide_border=true" alt="Sayedul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedul-islam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedul-islam&show_icons=true&theme=radical&hide_border=true" alt="Sayedul's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedul-islam&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
