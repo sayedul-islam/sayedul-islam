@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="আপনার_ছবির_লিংক_বা_ফাইল_নেম" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Sayedul Islam">
+  <img src="profile.jpeg" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Sayedul Islam">
   
   ### Hi there 👋, I'm Sayedul Islam
   
