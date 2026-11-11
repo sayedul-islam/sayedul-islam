@@ -30,6 +30,9 @@
   <a href="https://wa.me/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+  <a href="mailto:mdsayed177100@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
